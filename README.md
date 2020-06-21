@@ -73,7 +73,9 @@ Director: Public Analytics group. chend '@' lsbu.ac.uk, School of Engineering, L
 
 ### 用户个体消费分析
 **客户消费商品数与消费总金额的描述统计**
-这是一张图片
+
+![](https://github.com/sunandflowering/E-CommerceData/raw/master/pic/20.png)
+
 根据图表得：平均数与中位数和分位数比较，客户的采购数量和采购金额的平均值都要高于中位数，说明数据有极大值的干扰。
 
 **客户消费金额与消费商品数的散点图**（是否呈线性相关，线性方程）
@@ -128,9 +130,15 @@ Director: Public Analytics group. chend '@' lsbu.ac.uk, School of Engineering, L
 
 **新老客户消费比**
 
+我们可以根据订单时间来判断新老客户，只有一次订单是新客户，一次以上的订单是老客户，通过计算得：
+
+新客户：1496人
+
+老客户：2843人
+
 34%的用户只进行了一次采购
 
-可以看看一次采购的消费金额与消费数量，可能是大单，然后想办法留住客户
+对于只有一次采购的消费者，可以看看一次采购的消费金额与消费数量，可能是大单，然后想办法留住客户。
 
 **用户分层RFM**
 
