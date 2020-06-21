@@ -32,6 +32,7 @@ Director: Public Analytics group. chend '@' lsbu.ac.uk, School of Engineering, L
 异常值处理：df.describe()观察平均值与四分位数比较，观察是否有异常值存在
 #### 数据分析
 **客户消费趋势分析**
+
 ![](https://github.com/sunandflowering/E-CommerceData/raw/master/pic/1.png)
 
 根据图表显示，2010.12-2011.7，销售金额较低，趋势波动，从2011.7以后销售金额逐月上涨，2011.11月达到峰值，12月又降下来
@@ -41,24 +42,29 @@ Director: Public Analytics group. chend '@' lsbu.ac.uk, School of Engineering, L
 根据图表显示，销售金额逐季度呈上升趋势，第四季度达到峰值
 
 **客户采购量分析**
+
 ![](https://github.com/sunandflowering/E-CommerceData/raw/master/pic/3.png)
 
 根据图表显示，2010.12-2011.7，客户采购量较低，趋势波动，从2011.6月以后销售金额逐月上涨，2011.11月达到峰值，12月又降下来，和采购金额趋势相近
+
 ![](https://github.com/sunandflowering/E-CommerceData/raw/master/pic/4.png)
 
 根据图表显示，客户采购数量逐季度呈上升趋势，第二极度以后上升较快，第四季度达到峰值
 
 **采购客户数分析**
+
 ![](https://github.com/sunandflowering/E-CommerceData/raw/master/pic/5.png)
 
 前9个月用户数量在1000以下呈波动趋势，9月到11月用户增长较快，12月下降到最低值
 
 **每月平均一个用户消费的金额**
+
 ![](https://github.com/sunandflowering/E-CommerceData/raw/master/pic/6.png)
 
 根据图表可知：客户四月份的消费金额最低，12月份的消费金额最高
 
 **每月用户消费的平均次数**
+
 ![](https://github.com/sunandflowering/E-CommerceData/raw/master/pic/7.png)
 
 有图可知消费前九个月的每月消费次数在28左右，9月到11月消费次数增长加快，11月为最高值，消费了39次，12月下降到平均值
