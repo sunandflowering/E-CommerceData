@@ -65,11 +65,11 @@ Director: Public Analytics group. chend '@' lsbu.ac.uk, School of Engineering, L
 ## 数据分析
 ### 客户消费趋势分析
 
-![](https://github.com/sunandflowering/E-CommerceData/raw/master/pic/1.png)
+![](https://raw.githubusercontent.com/sunandflowering/E-CommerceData/master/pic/1.png)
 
 根据图表显示，2010.12-2011.7，销售金额较低，趋势波动，从2011.7以后销售金额逐月上涨，2011.11月达到峰值，12月又降下来
 
-![](https://github.com/sunandflowering/E-CommerceData/raw/master/pic/2.png)
+![](https://raw.githubusercontent.com/sunandflowering/E-CommerceData/master/pic/2.png)
 
 根据图表显示，销售金额逐季度呈上升趋势，第四季度达到峰值
 
